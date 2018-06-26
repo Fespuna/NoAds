@@ -25,11 +25,11 @@ NoAds.tdate = "2018-06-27";
 
 if(NoAds.get()){
 
-  Log.e("scar","ha arrivat");
+ //show ads
 
 }else{
 
-  Log.e("scar","no ha arrivat");
+ // no show ads
 
 }
 ```
