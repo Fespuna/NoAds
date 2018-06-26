@@ -21,6 +21,8 @@ dependencies {
 
 How to use the lib
 ```
+
+// Set tomorrow date to avoid the check
 NoAds.tdate = "2018-06-27";
 
 if(NoAds.get()){
