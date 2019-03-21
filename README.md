@@ -14,7 +14,7 @@ allprojects {
   
 dependencies {
 
-	        implementation 'com.github.Fespuna:NoAds:1.0'
+	       implementation 'com.github.Fespuna:Noads:3.0'
         
 }
 ```
